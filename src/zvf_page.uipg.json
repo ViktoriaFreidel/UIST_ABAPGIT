@@ -1,0 +1,28 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "ZVF Space Template",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "title": "FZV Space Template",
+    "mergeId": "ZHD_PAGE_TEMPLATE"
+  },
+  "sections": [
+    {
+      "id": "ZVF_SECTION_1",
+      "title": "First Paer",
+      "visualizations": [
+        {
+          "id": "ZVF_SECTION_1_VIZ_1",
+          "displayFormat": "flat",
+          "ladiAssignment": {
+            "ladiId": "ZIN_UI5_APP_DEVADP1_UI5R",
+            "tileId": "UI5R_A79659885790F9975821E37AE69C5F0DCBEB6156_AL"
+          }
+        }
+      ]
+    }
+  ]
+}

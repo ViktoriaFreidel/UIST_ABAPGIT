@@ -1,0 +1,17 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "ZVF Space Template 1",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "title": "Demo for abapGit, created in SKS",
+    "sortPriority": 2.0
+  },
+  "pages": [
+    {
+      "name": "ZVF_PAGE_1"
+    }
+  ]
+}
