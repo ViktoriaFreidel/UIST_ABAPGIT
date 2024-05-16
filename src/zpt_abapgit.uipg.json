@@ -1,11 +1,11 @@
 {
   "formatVersion": "1",
   "header": {
-    "description": "Test Page with abapGit",
+    "description": "Test Page with abapGit 1",
     "originalLanguage": "en",
     "abapLanguageVersion": "cloudDevelopment"
   },
   "generalInformation": {
-    "title": "Demo for abapGit"
+    "title": "Demo for abapGit demo"
   }
 }
