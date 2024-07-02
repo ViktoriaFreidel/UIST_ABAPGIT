@@ -1,0 +1,20 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "VF App for Check 2",
+    "originalLanguage": "en"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_ALV5_DEFAULT"
+  },
+  "navigation": {
+    "targetMappingId": "ZVF_APP_2_TM",
+    "semanticObject": "",
+    "action": "",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": []
+}

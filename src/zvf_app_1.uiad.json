@@ -1,0 +1,23 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "VF App for Check",
+    "originalLanguage": "en"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_ALV5_DEFAULT"
+  },
+  "ui5AppDetails": {
+    "appId": "com.airbus.mp3"
+  },
+  "navigation": {
+    "targetMappingId": "ZVF_APP_1_TM",
+    "semanticObject": "UiadTest",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": []
+}
