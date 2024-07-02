@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_NSPC" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <NSPC>
+    <NAMESPACE>/UI2/</NAMESPACE>
+    <REPLICENSE>42407041752569219908</REPLICENSE>
+    <SSCRFLAG>X</SSCRFLAG>
+   </NSPC>
+   <NSPC_TEXT>
+    <SPRAS>E</SPRAS>
+    <DESCRIPTN>UI backend enablement foundation (release independent)</DESCRIPTN>
+    <OWNER>Koehl, Felix</OWNER>
+   </NSPC_TEXT>
+  </asx:values>
+ </asx:abap>
+</abapGit>
