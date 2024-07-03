@@ -5,13 +5,17 @@
     "originalLanguage": "en"
   },
   "generalInformation": {
-    "appType": "",
-    "catalogId": ""
+    "appType": "ui5",
+    "catalogId": "SAP_TC_ALV5_DEFAULT"
+  },
+  "ui5AppDetails": {
+    "appId": "dm.demo1"
   },
   "navigation": {
-    "targetMappingId": "",
-    "semanticObject": "",
-    "action": "",
+    "targetMappingId": "abapGit",
+    "semanticObject": "someTest",
+    "action": "clear",
+    "desktop": true,
     "additionalParameterHandling": "ignored"
   },
   "tiles": []
