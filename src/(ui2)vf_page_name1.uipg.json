@@ -1,0 +1,25 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Page with name space",
+    "originalLanguage": "en"
+  },
+  "generalInformation": {
+    "title": "Page Templ with NameSpace"
+  },
+  "sections": [
+    {
+      "id": "SECTION_1",
+      "title": "git section 1",
+      "visualizations": [
+        {
+          "id": "SECTION_1_VIZ_1",
+          "ladiAssignment": {
+            "ladiId": "/UI2/GFE062XUQNKHEB95",
+            "tileId": "3WO90XZ1DGMNPYULNKRL6ZQPL"
+          }
+        }
+      ]
+    }
+  ]
+}
