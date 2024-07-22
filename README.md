@@ -1,2 +1,2 @@
 # UIST_ABAPGIT
-Test Object Type UIST on-promise
+UIST, UIPG, UIAD only objects with /UI2/name
