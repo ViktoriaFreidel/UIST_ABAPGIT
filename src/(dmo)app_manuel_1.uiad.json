@@ -1,0 +1,21 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Create in the package",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_ALV5_DEFAULT"
+  },
+  "navigation": {
+    "targetMappingId": "/DMO/APP_MANUEL_1_TM",
+    "semanticObject": "",
+    "action": "",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": []
+}
